@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Eagle Rock Barber Shop",
+  "tagline": "Classic Cuts in Eagle Rock",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Eagle Rock's Trusted Barber Since Day One",
+    "subheading": "93 five-star reviews, a 4.6 rating, and the neighborhood barber shop where every cut is done right. Walk-ins welcome on Eagle Rock Blvd.",
+    "ctaText": "Call Now",
+    "ctaLink": "tel:3234287374",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHSD_zDux3TT89Ib57NRY-bfi2MbnSPjLsnLZ_3fxUsWG6KYJsiSjKkuEizHdlSKogc7NyAGeLiBmidafNYkt5JEab4mr-QKEjzFpsHYLBU1XTFqsuvfYGsGzsGUglUxRsEiRTuVVBZUBoi_JLz0XAisvpoBdv6Isci5R1DYoQZW-N4BGDYAsjS35eGO10C4u8aN-g=w426-h240-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Your Neighborhood Barber",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Eagle Rock Barber Shop is the kind of place where you walk in as a customer and leave as a regular. We've been serving the Eagle Rock community with classic cuts, modern fades, and friendly service.",
+      "With 93 reviews and a 4.6-star rating, our barbers have built a loyal following through skill, consistency, and genuine care. No gimmicks — just great haircuts.",
+      "Open 7 days a week. Walk-ins always welcome."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
-  ],
-  "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
-    "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
+    {
+      "title": "Haircuts",
+      "description": "Classic cuts, fades, tapers, and modern styles for men and boys. Tailored to your look.",
+      "icon": "Scissors"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    {
+      "title": "Fades & Lineups",
+      "description": "Clean fades, sharp lineups, and crisp edges. Precision work that lasts.",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "Beard Trims",
+      "description": "Full beard shaping, trims, and edge-ups to keep your facial hair looking sharp.",
+      "icon": "Star"
+    },
+    {
+      "title": "Hot Towel Shave",
+      "description": "Relaxing hot towel straight razor shave for the smoothest finish possible.",
+      "icon": "Flame"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Carlos R.",
+      "text": "Best barber shop in Eagle Rock. My barber always nails the fade. Consistent quality every visit.",
+      "rating": 5
+    },
+    {
+      "name": "Brian T.",
+      "text": "Great neighborhood spot. Fair prices, skilled barbers, and no pretension. Just good cuts.",
+      "rating": 5
+    },
+    {
+      "name": "Andre M.",
+      "text": "I've been going here for years. The barbers know what they're doing and the atmosphere is always welcoming.",
+      "rating": 5
+    },
+    {
+      "name": "James L.",
+      "text": "Walk-in friendly and they don't rush. My kids love coming here too. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Steven K.",
+      "text": "Eagle Rock Barber Shop is a gem. Old school barbering done right in a modern setting.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "Our Shop",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHSD_zDux3TT89Ib57NRY-bfi2MbnSPjLsnLZ_3fxUsWG6KYJsiSjKkuEizHdlSKogc7NyAGeLiBmidafNYkt5JEab4mr-QKEjzFpsHYLBU1XTFqsuvfYGsGzsGUglUxRsEiRTuVVBZUBoi_JLz0XAisvpoBdv6Isci5R1DYoQZW-N4BGDYAsjS35eGO10C4u8aN-g=w426-h240-k-no",
+        "alt": "Eagle Rock Barber Shop"
+      }
+    ]
+  },
+  "contact": {
+    "address": "4908 N Eagle Rock Blvd, Los Angeles, CA 90041",
+    "phone": "(323) 428-7374",
+    "email": "info@eaglerockbarber.com",
+    "hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 3:00 PM"
+    },
+    "mapEmbedQuery": "Eagle Rock Barber Shop 4908 Eagle Rock Blvd Los Angeles CA 90041"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Eagle Rock Barber Shop | Classic Haircuts & Fades in Eagle Rock LA",
+    "description": "Trusted neighborhood barber shop on Eagle Rock Blvd. 93 reviews, 4.6 stars. Walk-ins welcome 7 days a week.",
+    "keywords": [
+      "barber shop Eagle Rock",
+      "haircut Eagle Rock LA",
+      "fade near me",
+      "Eagle Rock Barber Shop",
+      "barber Los Angeles"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0d0d0d",
+    "accentColor": "#16a34a",
+    "fontFamily": "bold"
   }
 }
